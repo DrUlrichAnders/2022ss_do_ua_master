@@ -19,20 +19,26 @@
 #### 2022-03-15
 
 - Hierarchy — a natural order?<br/>
+  SM
 
 - Organizational Culture<br/>
+  JPF
 
 - Exponential Organization</br>
+  AiA
 
 ---
 
 #### 2022-03-22
 
 - Ambidextrous Organization<br/>
+  AfA
 
 - Holacracy </br>
+  JK
 
 - Reinventing Organization</br>
+  AJ
 
 ---
 
