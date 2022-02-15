@@ -19,32 +19,34 @@
 #### 2022-03-15
 
 - Hierarchy — a natural order?<br/>
-  SM
+  Sophia Mayer
 
 - Organizational Culture<br/>
-  JPF
+  John-Pierre Fassbender
 
 - Exponential Organization</br>
-  AiA
+  Aidana A.
 
 ---
 
 #### 2022-03-22
 
 - Ambidextrous Organization<br/>
-  AfA
+  Afshan
 
 - Holacracy </br>
-  JK
+  Juliana Kayser
 
 - Reinventing Organization</br>
-  AJ
+  Tracy Le
 
 ---
 
 #### 2022-03-29
 
 - Morningstar, Sipgate, Buffer incl. Salary Systems (https://buffer.com/resources/salary-formula-changes-2019/- and https://buffer.com/salaries)
+
+Ola Oburoh
 
 ---
 
